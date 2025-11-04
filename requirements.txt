@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+llama-index-llms-google-genai
+llama-index-core
+llama-index-readers-file
+qdrant_client
+llama-index-embeddings-google-genai
+llama-index-vector-stores-qdrant
+pydantic
+PyMuPDF
+docx2python
+requests
